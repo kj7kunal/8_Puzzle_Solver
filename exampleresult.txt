@@ -1,0 +1,400 @@
+1 5 2
+4 8 0
+7 6 3
+('Approximation h=0, Djikstra heuristic, explored', 181, 'states and took t =', 0.3798, 's')
+('Euclidean distance heuristic explored', 25, 'states and took t =', 0.023942999999999937, 's')
+('Chebyshev distance heuristic explored', 16, 'states and took t =', 0.013992000000000004, 's')
+('Manhattan distance heuristic explored', 8, 'states and took t =', 0.005856000000000083, 's')
+
+1 0 2
+4 5 3
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 13, 'states and took t =', 0.0046119999999999495, 's')
+('Euclidean distance heuristic explored', 4, 'states and took t =', 0.0022159999999999958, 's')
+('Chebyshev distance heuristic explored', 4, 'states and took t =', 0.0022809999999999775, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.0021529999999999605, 's')
+
+1 3 6
+4 5 2
+7 0 8
+('Approximation h=0, Djikstra heuristic, explored', 158, 'states and took t =', 0.05523699999999998, 's')
+('Euclidean distance heuristic explored', 30, 'states and took t =', 0.002035000000000009, 's')
+('Chebyshev distance heuristic explored', 17, 'states and took t =', 0.0010359999999999259, 's')
+('Manhattan distance heuristic explored', 14, 'states and took t =', 0.0007939999999999614, 's')
+
+2 4 3
+8 7 5
+1 0 6
+('Approximation h=0, Djikstra heuristic, explored', 960, 'states and took t =', 0.648815, 's')
+('Euclidean distance heuristic explored', 158, 'states and took t =', 0.02567200000000014, 's')
+('Chebyshev distance heuristic explored', 38, 'states and took t =', 0.0027600000000000957, 's')
+('Manhattan distance heuristic explored', 26, 'states and took t =', 0.0014859999999998763, 's')
+
+1 2 3
+4 8 5
+7 0 6
+('Approximation h=0, Djikstra heuristic, explored', 17, 'states and took t =', 0.0004109999999999392, 's')
+('Euclidean distance heuristic explored', 5, 'states and took t =', 0.00021399999999993646, 's')
+('Chebyshev distance heuristic explored', 5, 'states and took t =', 0.00021199999999987895, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.00016499999999997073, 's')
+
+1 3 5
+4 2 0
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 51, 'states and took t =', 0.0024210000000000065, 's')
+('Euclidean distance heuristic explored', 10, 'states and took t =', 0.0005209999999999937, 's')
+('Chebyshev distance heuristic explored', 9, 'states and took t =', 0.0004499999999998394, 's')
+('Manhattan distance heuristic explored', 8, 'states and took t =', 0.0003549999999998832, 's')
+
+1 0 3
+4 2 6
+7 5 8
+('Approximation h=0, Djikstra heuristic, explored', 19, 'states and took t =', 0.0004349999999999632, 's')
+('Euclidean distance heuristic explored', 4, 'states and took t =', 0.00018600000000001948, 's')
+('Chebyshev distance heuristic explored', 4, 'states and took t =', 0.00017399999999989646, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.00016499999999997073, 's')
+
+1 2 3
+4 6 0
+7 5 8
+('Approximation h=0, Djikstra heuristic, explored', 15, 'states and took t =', 0.0002910000000000412, 's')
+('Euclidean distance heuristic explored', 5, 'states and took t =', 0.00020700000000006824, 's')
+('Chebyshev distance heuristic explored', 5, 'states and took t =', 0.000248000000000026, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.00016599999999988846, 's')
+
+1 2 3
+0 4 6
+7 5 8
+('Approximation h=0, Djikstra heuristic, explored', 17, 'states and took t =', 0.00035799999999985843, 's')
+('Euclidean distance heuristic explored', 4, 'states and took t =', 0.00018999999999991246, 's')
+('Chebyshev distance heuristic explored', 4, 'states and took t =', 0.0001749999999998142, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.00016599999999988846, 's')
+
+1 0 3
+4 2 6
+7 5 8
+('Approximation h=0, Djikstra heuristic, explored', 19, 'states and took t =', 0.0005059999999998954, 's')
+('Euclidean distance heuristic explored', 4, 'states and took t =', 0.00017000000000000348, 's')
+('Chebyshev distance heuristic explored', 4, 'states and took t =', 0.0001769999999998717, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.00018099999999998673, 's')
+
+1 2 3
+0 8 5
+4 7 6
+('Approximation h=0, Djikstra heuristic, explored', 59, 'states and took t =', 0.002966999999999942, 's')
+('Euclidean distance heuristic explored', 12, 'states and took t =', 0.0006180000000000074, 's')
+('Chebyshev distance heuristic explored', 8, 'states and took t =', 0.00039199999999994795, 's')
+('Manhattan distance heuristic explored', 6, 'states and took t =', 0.00025999999999992696, 's')
+
+2 3 5
+1 4 0
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 151, 'states and took t =', 0.016901999999999973, 's')
+('Euclidean distance heuristic explored', 26, 'states and took t =', 0.0015760000000000218, 's')
+('Chebyshev distance heuristic explored', 12, 'states and took t =', 0.0006800000000000139, 's')
+('Manhattan distance heuristic explored', 11, 'states and took t =', 0.0005629999999998692, 's')
+
+1 2 3
+4 8 5
+7 0 6
+('Approximation h=0, Djikstra heuristic, explored', 17, 'states and took t =', 0.00042299999999984017, 's')
+('Euclidean distance heuristic explored', 5, 'states and took t =', 0.0002089999999999037, 's')
+('Chebyshev distance heuristic explored', 5, 'states and took t =', 0.000212000000000101, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.0001660000000001105, 's')
+
+2 0 3
+1 5 6
+4 7 8
+('Approximation h=0, Djikstra heuristic, explored', 41, 'states and took t =', 0.0016720000000001178, 's')
+('Euclidean distance heuristic explored', 13, 'states and took t =', 0.0007059999999998734, 's')
+('Chebyshev distance heuristic explored', 6, 'states and took t =', 0.00023700000000004273, 's')
+('Manhattan distance heuristic explored', 6, 'states and took t =', 0.00022400000000000198, 's')
+
+1 2 3
+4 6 8
+7 0 5
+('Approximation h=0, Djikstra heuristic, explored', 59, 'states and took t =', 0.002909999999999968, 's')
+('Euclidean distance heuristic explored', 10, 'states and took t =', 0.0008980000000000654, 's')
+('Chebyshev distance heuristic explored', 9, 'states and took t =', 0.0005089999999998707, 's')
+('Manhattan distance heuristic explored', 6, 'states and took t =', 0.0002609999999998447, 's')
+
+1 2 3
+0 4 5
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 15, 'states and took t =', 0.0003269999999999662, 's')
+('Euclidean distance heuristic explored', 4, 'states and took t =', 0.00016900000000008575, 's')
+('Chebyshev distance heuristic explored', 4, 'states and took t =', 0.00017299999999997873, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.0001660000000001105, 's')
+
+1 2 3
+0 5 6
+4 7 8
+('Approximation h=0, Djikstra heuristic, explored', 19, 'states and took t =', 0.00043200000000021, 's')
+('Euclidean distance heuristic explored', 5, 'states and took t =', 0.00027599999999994296, 's')
+('Chebyshev distance heuristic explored', 4, 'states and took t =', 0.0001420000000000865, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.00013299999999993872, 's')
+
+2 0 3
+1 5 6
+4 7 8
+('Approximation h=0, Djikstra heuristic, explored', 41, 'states and took t =', 0.001667000000000085, 's')
+('Euclidean distance heuristic explored', 13, 'states and took t =', 0.0006720000000000059, 's')
+('Chebyshev distance heuristic explored', 6, 'states and took t =', 0.0002340000000000675, 's')
+('Manhattan distance heuristic explored', 6, 'states and took t =', 0.00022100000000002673, 's')
+
+1 2 3
+5 7 6
+4 0 8
+('Approximation h=0, Djikstra heuristic, explored', 45, 'states and took t =', 0.002346999999999877, 's')
+('Euclidean distance heuristic explored', 12, 'states and took t =', 0.0005970000000001807, 's')
+('Chebyshev distance heuristic explored', 9, 'states and took t =', 0.000416000000000194, 's')
+('Manhattan distance heuristic explored', 8, 'states and took t =', 0.0003569999999999407, 's')
+
+1 2 3
+7 4 5
+8 0 6
+('Approximation h=0, Djikstra heuristic, explored', 39, 'states and took t =', 0.001630999999999938, 's')
+('Euclidean distance heuristic explored', 11, 'states and took t =', 0.0006029999999999092, 's')
+('Chebyshev distance heuristic explored', 8, 'states and took t =', 0.0003910000000000302, 's')
+('Manhattan distance heuristic explored', 7, 'states and took t =', 0.0003340000000000565, 's')
+
+1 0 3
+4 2 6
+7 5 8
+('Approximation h=0, Djikstra heuristic, explored', 19, 'states and took t =', 0.00043999999999999595, 's')
+('Euclidean distance heuristic explored', 4, 'states and took t =', 0.00016999999999978144, 's')
+('Chebyshev distance heuristic explored', 4, 'states and took t =', 0.00017299999999997873, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.0001829999999998222, 's')
+
+2 3 6
+1 5 8
+4 0 7
+('Approximation h=0, Djikstra heuristic, explored', 483, 'states and took t =', 0.1587989999999999, 's')
+('Euclidean distance heuristic explored', 66, 'states and took t =', 0.0067110000000001335, 's')
+('Chebyshev distance heuristic explored', 12, 'states and took t =', 0.0006199999999998429, 's')
+('Manhattan distance heuristic explored', 14, 'states and took t =', 0.0007140000000001034, 's')
+
+1 2 3
+4 8 5
+7 0 6
+('Approximation h=0, Djikstra heuristic, explored', 17, 'states and took t =', 0.00036300000000011323, 's')
+('Euclidean distance heuristic explored', 5, 'states and took t =', 0.00021000000000004349, 's')
+('Chebyshev distance heuristic explored', 5, 'states and took t =', 0.00021500000000007624, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.00016700000000002824, 's')
+
+1 2 3
+0 5 6
+4 7 8
+('Approximation h=0, Djikstra heuristic, explored', 19, 'states and took t =', 0.0005540000000001655, 's')
+('Euclidean distance heuristic explored', 5, 'states and took t =', 0.0003509999999999902, 's')
+('Chebyshev distance heuristic explored', 4, 'states and took t =', 0.00017299999999997873, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.00013299999999993872, 's')
+
+1 2 3
+4 6 8
+7 0 5
+('Approximation h=0, Djikstra heuristic, explored', 59, 'states and took t =', 0.0029489999999998684, 's')
+('Euclidean distance heuristic explored', 10, 'states and took t =', 0.0004889999999999617, 's')
+('Chebyshev distance heuristic explored', 9, 'states and took t =', 0.00045399999999995444, 's')
+('Manhattan distance heuristic explored', 6, 'states and took t =', 0.00025999999999992696, 's')
+
+1 5 2
+0 4 3
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 45, 'states and took t =', 0.0019219999999999793, 's')
+('Euclidean distance heuristic explored', 13, 'states and took t =', 0.0006189999999999252, 's')
+('Chebyshev distance heuristic explored', 8, 'states and took t =', 0.0003729999999999567, 's')
+('Manhattan distance heuristic explored', 6, 'states and took t =', 0.0002580000000000915, 's')
+
+1 2 3
+4 5 0
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 4, 'states and took t =', 5.199999999994098e-05, 's')
+('Euclidean distance heuristic explored', 2, 'states and took t =', 5.100000000002325e-05, 's')
+('Chebyshev distance heuristic explored', 2, 'states and took t =', 5.200000000016303e-05, 's')
+('Manhattan distance heuristic explored', 2, 'states and took t =', 4.899999999996574e-05, 's')
+
+4 1 2
+0 7 5
+8 6 3
+('Approximation h=0, Djikstra heuristic, explored', 1044, 'states and took t =', 0.7692299999999999, 's')
+('Euclidean distance heuristic explored', 162, 'states and took t =', 0.02784000000000031, 's')
+('Chebyshev distance heuristic explored', 43, 'states and took t =', 0.0033129999999998994, 's')
+('Manhattan distance heuristic explored', 33, 'states and took t =', 0.0021930000000001115, 's')
+
+4 1 3
+0 2 8
+7 6 5
+('Approximation h=0, Djikstra heuristic, explored', 333, 'states and took t =', 0.08309200000000017, 's')
+('Euclidean distance heuristic explored', 67, 'states and took t =', 0.006501999999999786, 's')
+('Chebyshev distance heuristic explored', 23, 'states and took t =', 0.0014759999999998108, 's')
+('Manhattan distance heuristic explored', 13, 'states and took t =', 0.0006750000000002032, 's')
+
+1 5 2
+4 3 0
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 41, 'states and took t =', 0.0017860000000000653, 's')
+('Euclidean distance heuristic explored', 12, 'states and took t =', 0.000592000000000148, 's')
+('Chebyshev distance heuristic explored', 9, 'states and took t =', 0.0006470000000002862, 's')
+('Manhattan distance heuristic explored', 8, 'states and took t =', 0.0006669999999999732, 's')
+
+1 5 2
+0 4 3
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 45, 'states and took t =', 0.0019160000000000288, 's')
+('Euclidean distance heuristic explored', 13, 'states and took t =', 0.000656000000000212, 's')
+('Chebyshev distance heuristic explored', 8, 'states and took t =', 0.0004939999999997724, 's')
+('Manhattan distance heuristic explored', 6, 'states and took t =', 0.00027199999999982793, 's')
+
+4 1 2
+0 5 3
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 35, 'states and took t =', 0.0013459999999998473, 's')
+('Euclidean distance heuristic explored', 12, 'states and took t =', 0.0006010000000000737, 's')
+('Chebyshev distance heuristic explored', 6, 'states and took t =', 0.0002459999999997464, 's')
+('Manhattan distance heuristic explored', 6, 'states and took t =', 0.00023300000000014975, 's')
+
+1 2 3
+4 6 8
+7 0 5
+('Approximation h=0, Djikstra heuristic, explored', 59, 'states and took t =', 0.003198000000000256, 's')
+('Euclidean distance heuristic explored', 10, 'states and took t =', 0.0005180000000000184, 's')
+('Chebyshev distance heuristic explored', 9, 'states and took t =', 0.0005009999999998627, 's')
+('Manhattan distance heuristic explored', 6, 'states and took t =', 0.00027500000000024727, 's')
+
+2 3 5
+1 8 4
+7 0 6
+('Approximation h=0, Djikstra heuristic, explored', 415, 'states and took t =', 0.12489399999999984, 's')
+('Euclidean distance heuristic explored', 62, 'states and took t =', 0.005718000000000334, 's')
+('Chebyshev distance heuristic explored', 19, 'states and took t =', 0.001140000000000363, 's')
+('Manhattan distance heuristic explored', 14, 'states and took t =', 0.0006979999999998654, 's')
+
+1 2 3
+5 6 0
+4 7 8
+('Approximation h=0, Djikstra heuristic, explored', 37, 'states and took t =', 0.0015860000000000873, 's')
+('Euclidean distance heuristic explored', 12, 'states and took t =', 0.00062400000000018, 's')
+('Chebyshev distance heuristic explored', 9, 'states and took t =', 0.0004140000000001365, 's')
+('Manhattan distance heuristic explored', 7, 'states and took t =', 0.0002990000000000492, 's')
+
+1 2 3
+0 6 8
+4 7 5
+('Approximation h=0, Djikstra heuristic, explored', 181, 'states and took t =', 0.024363000000000135, 's')
+('Euclidean distance heuristic explored', 26, 'states and took t =', 0.0016160000000002839, 's')
+('Chebyshev distance heuristic explored', 12, 'states and took t =', 0.0006569999999999077, 's')
+('Manhattan distance heuristic explored', 8, 'states and took t =', 0.00035799999999985843, 's')
+
+4 1 3
+7 2 0
+8 6 5
+('Approximation h=0, Djikstra heuristic, explored', 448, 'states and took t =', 0.14400700000000022, 's')
+('Euclidean distance heuristic explored', 68, 'states and took t =', 0.007217000000000251, 's')
+('Chebyshev distance heuristic explored', 22, 'states and took t =', 0.0013600000000000279, 's')
+('Manhattan distance heuristic explored', 17, 'states and took t =', 0.000992000000000104, 's')
+
+1 2 3
+4 5 6
+7 0 8
+('Approximation h=0, Djikstra heuristic, explored', 4, 'states and took t =', 5.9000000000253294e-05, 's')
+('Euclidean distance heuristic explored', 2, 'states and took t =', 5.3999999999998494e-05, 's')
+('Chebyshev distance heuristic explored', 2, 'states and took t =', 5.699999999997374e-05, 's')
+('Manhattan distance heuristic explored', 2, 'states and took t =', 5.200000000016303e-05, 's')
+
+1 2 3
+0 4 5
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 15, 'states and took t =', 0.00032599999999982643, 's')
+('Euclidean distance heuristic explored', 4, 'states and took t =', 0.0001769999999998717, 's')
+('Chebyshev distance heuristic explored', 4, 'states and took t =', 0.00021899999999996922, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.00022100000000024878, 's')
+
+1 2 3
+7 4 5
+8 0 6
+('Approximation h=0, Djikstra heuristic, explored', 39, 'states and took t =', 0.0015819999999999723, 's')
+('Euclidean distance heuristic explored', 11, 'states and took t =', 0.0005809999999999427, 's')
+('Chebyshev distance heuristic explored', 8, 'states and took t =', 0.00041599999999997195, 's')
+('Manhattan distance heuristic explored', 7, 'states and took t =', 0.00031499999999962114, 's')
+
+1 0 3
+8 2 5
+4 7 6
+('Approximation h=0, Djikstra heuristic, explored', 153, 'states and took t =', 0.01855999999999991, 's')
+('Euclidean distance heuristic explored', 27, 'states and took t =', 0.0016289999999998805, 's')
+('Chebyshev distance heuristic explored', 14, 'states and took t =', 0.0009129999999997196, 's')
+('Manhattan distance heuristic explored', 10, 'states and took t =', 0.0004990000000000272, 's')
+
+1 0 2
+7 4 3
+8 6 5
+('Approximation h=0, Djikstra heuristic, explored', 389, 'states and took t =', 0.11068199999999973, 's')
+('Euclidean distance heuristic explored', 65, 'states and took t =', 0.006395999999999624, 's')
+('Chebyshev distance heuristic explored', 22, 'states and took t =', 0.001395000000000035, 's')
+('Manhattan distance heuristic explored', 10, 'states and took t =', 0.000536000000000314, 's')
+
+1 5 2
+0 8 3
+4 7 6
+('Approximation h=0, Djikstra heuristic, explored', 171, 'states and took t =', 0.02250500000000022, 's')
+('Euclidean distance heuristic explored', 30, 'states and took t =', 0.001960000000000406, 's')
+('Chebyshev distance heuristic explored', 12, 'states and took t =', 0.0006349999999999412, 's')
+('Manhattan distance heuristic explored', 9, 'states and took t =', 0.00043099999999984817, 's')
+
+2 3 6
+1 7 5
+4 0 8
+('Approximation h=0, Djikstra heuristic, explored', 419, 'states and took t =', 0.12768400000000035, 's')
+('Euclidean distance heuristic explored', 70, 'states and took t =', 0.007042000000000215, 's')
+('Chebyshev distance heuristic explored', 20, 'states and took t =', 0.0011359999999998038, 's')
+('Manhattan distance heuristic explored', 15, 'states and took t =', 0.0007559999999999789, 's')
+
+1 2 3
+0 4 5
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 15, 'states and took t =', 0.00032999999999994145, 's')
+('Euclidean distance heuristic explored', 4, 'states and took t =', 0.00017900000000015126, 's')
+('Chebyshev distance heuristic explored', 4, 'states and took t =', 0.00018199999999968242, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.00017400000000034055, 's')
+
+1 0 3
+4 2 6
+7 5 8
+('Approximation h=0, Djikstra heuristic, explored', 19, 'states and took t =', 0.00048099999999973164, 's')
+('Euclidean distance heuristic explored', 4, 'states and took t =', 0.00017999999999984695, 's')
+('Chebyshev distance heuristic explored', 4, 'states and took t =', 0.0001829999999998222, 's')
+('Manhattan distance heuristic explored', 4, 'states and took t =', 0.00017399999999989646, 's')
+
+1 2 3
+4 5 0
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 4, 'states and took t =', 5.499999999969418e-05, 's')
+('Euclidean distance heuristic explored', 2, 'states and took t =', 5.3999999999998494e-05, 's')
+('Chebyshev distance heuristic explored', 2, 'states and took t =', 5.499999999969418e-05, 's')
+('Manhattan distance heuristic explored', 2, 'states and took t =', 5.200000000016303e-05, 's')
+
+4 1 3
+2 5 6
+7 0 8
+('Approximation h=0, Djikstra heuristic, explored', 130, 'states and took t =', 0.014727999999999852, 's')
+('Euclidean distance heuristic explored', 28, 'states and took t =', 0.0018129999999998425, 's')
+('Chebyshev distance heuristic explored', 15, 'states and took t =', 0.0008390000000000342, 's')
+('Manhattan distance heuristic explored', 14, 'states and took t =', 0.0012250000000002537, 's')
+
+1 3 5
+0 4 2
+7 8 6
+('Approximation h=0, Djikstra heuristic, explored', 141, 'states and took t =', 0.015495000000000037, 's')
+('Euclidean distance heuristic explored', 28, 'states and took t =', 0.0018880000000001118, 's')
+('Chebyshev distance heuristic explored', 16, 'states and took t =', 0.0008989999999999831, 's')
+('Manhattan distance heuristic explored', 11, 'states and took t =', 0.0005929999999998437, 's')
+
+1 0 2
+4 6 3
+7 5 8
+('Approximation h=0, Djikstra heuristic, explored', 47, 'states and took t =', 0.0021140000000001713, 's')
+('Euclidean distance heuristic explored', 12, 'states and took t =', 0.0006040000000000489, 's')
+('Chebyshev distance heuristic explored', 7, 'states and took t =', 0.0003109999999999502, 's')
+('Manhattan distance heuristic explored', 6, 'states and took t =', 0.0002569999999999517, 's')
+
